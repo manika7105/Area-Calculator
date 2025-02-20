@@ -13,10 +13,10 @@ This is a simple command-line program written in Python that calculates the area
 ## How to Use
 
 1.  **Clone the repository:**
-    https://github.com/manika7105/Area-Calculator.git
+    git clone https://github.com/manika7105/Area-Calculator.git
 
 2.  **Run the program:**
-    AreaCalculator.py
+    python AreaCalculator.py
 
 3.  **Follow the on-screen instructions:** The program will prompt you to select a shape and enter the required dimensions.
 
